@@ -1,0 +1,26 @@
+_repo: Trinity-site_277
+_version: 0.0.1
+creator:
+  author:
+    agent_name: National Atomic Museum (U.S.)
+    gutenberg_agent_id: '158'
+    url: http://www.gutenberg.org/2009/agents/158
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2008-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atomic bomb -- New Mexico -- Testing -- History'
+- !lcc 'D731'
+- !lcsh 'Manhattan Project (U.S.)'
+- !lcc 'QC'
+- !lcc 'U'
+- GITenberg
+title: Trinity Site
+url: http://www.gutenberg.org/ebooks/277
